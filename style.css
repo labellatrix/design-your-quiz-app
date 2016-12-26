@@ -1,0 +1,52 @@
+body {
+	box-sizing: border-box;
+	margin: 10px;
+	border: 2px solid black;
+	background-color: #C4C4C4;
+}
+
+h1.logo {
+    border-style: solid;
+    border-width: 1px;
+	background-color: #788895;
+    padding: 5px;
+    width: 400px;
+    margin: 25px;
+    text-align: center;
+}
+
+.image {
+	padding: 50px;
+}
+
+.main {
+	border-style: solid;
+    border-width: 1px;
+    background-color: grey;
+    padding: 5px;
+    width: 125px;
+    text-align: center;
+    margin: 25px;
+
+}
+
+.list {
+    background-color: grey;
+    width: 500px;
+    border-style: solid;
+    border-width: 1px;
+    margin: 25px;
+
+}
+
+footer {
+	color: #000000;
+	border-style: solid;
+    border-width: 1px;
+    background-color: #788895;
+    padding: 5px;
+    width: 500px;
+    text-align: center;
+    margin: 15px;
+
+}
